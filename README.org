@@ -1,0 +1,19 @@
+* Koyobiso.Google.Maps.Geocode-Api 
+
+** Usage
+
+** Dependencies
+
+** Installation
+
+** Author
+
++ Yasuyuki WATANABE (yaz@koyobiso.jp)
+
+** Copyright
+
+Copyright (c) 2015 Yasuyuki WATANABE (yaz@koyobiso.jp)
+
+** License
+
+Licensed under the Private License.
